@@ -1,5 +1,5 @@
 # DSAR-CF
-Public code of DSAR-CF (Dynamic Saliency-Aware Regularization for Correlation Filter based Object Tracking), published in TIP 2019.
+Project page of WSCF (Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking), accepted by TIP.
 ```
 @article{han2020fast,
   title={Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking}, 
@@ -18,6 +18,6 @@ In WSCF, specifically, we present a simple yet effective energy function that im
 We further develop a content-aware updating strategy to dynamically refine the weight distribution to well adapt to the temporal variations of the target and background. Finally, the proposed WSCF is used to enhance two state-of-the-art CF trackers to significantly boost their tracking accuracy, with little sacrifice on the tracking speed. Extensive experiments on \revised{five} benchmarks validate the effectiveness of the proposed approach.
 
 ## Experiments
-The experimental results on OTB-2013/2015: (We put the raw results in results_DSAR-CF_OTB15.zip)  
+The experimental results on OTB-2013/2015:
 
 ![res](https://github.com/HanRuize/WSCF/blob/master/eval_otb.png)
