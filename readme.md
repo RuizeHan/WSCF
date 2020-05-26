@@ -1,4 +1,4 @@
-# DSAR-CF
+# WSCF
 Project page of WSCF (Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking), accepted by TIP.
 ```
 @article{han2020fast,
