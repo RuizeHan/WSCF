@@ -18,6 +18,6 @@ With a good balance between accuracy and speed, correlation filter (CF) has beco
 In this paper, we propose a new fast learning approach to content-aware spatial regularization, namely weighted sample based CF tracking (WSCF). In WSCF, specifically, we present a simple yet effective energy function that implicitly weighs different training samples by spatial deviations. With the energy function, the learning of correlation filters is composed of two subproblems with closed-form solution and can be efficiently solved in an alternate way. We further develop a content-aware updating strategy to dynamically refine the weight distribution to well adapt to the temporal variations of the target and background. 
 
 ## Experiments
-The experimental results on OTB-2013/2015:
+The experimental results on OTB-2013/2015: (We provide the raw results on OTB benchmark in 'results_WSCF_OTB-2015.zip'.)
 
 ![res](https://github.com/HanRuize/WSCF/blob/master/eval_otb.png)
