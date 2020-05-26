@@ -11,7 +11,7 @@ Project page of WSCF (Fast Learning of Spatially Regularized and Content Aware C
 
 ## Method
 
-![example](https://github.com/HanRuize/WSCF/blob/master/example.png) {:width = '500px', height = '750px'}
+![example](https://github.com/HanRuize/WSCF/blob/master/example.png width = "500")
 
 With a good balance between accuracy and speed, correlation filter (CF) has become a popular and dominant visual object tracking scheme. It implicitly extends the training samples by circular shifts of a given target patch, which serve as negative samples for fast online learning of the filters. Since all these shifted patches are not real negative samples of the target, CF tracking scheme suffers from the annoying boundary effects that can greatly harm the tracking performance, especially under challenging situations, like occlusion and fast temporal variation. Spatial regularization is known as a potent way to alleviate such boundary effects, but with the cost of highly increased time complexity, caused by complex optimization imported by spatial regularization. 
 
