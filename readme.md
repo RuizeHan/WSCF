@@ -1,5 +1,5 @@
 # WSCF
-Project page of WSCF (Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking), published in TIP 2021.
+Project page of WSCF (Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking), published in TIP 2020.
 ```
 @article{han2020fast,
   title={Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking}, 
